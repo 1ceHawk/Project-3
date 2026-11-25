@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (btn) {
     btn.addEventListener("click", () => {
       alert(
-        "If you have questions, contact me at:\nyouremail@example.com"
+        "If you have questions, contact me at:\nikargbo@hawk.illinoistech.edu"
       );
     });
   }
